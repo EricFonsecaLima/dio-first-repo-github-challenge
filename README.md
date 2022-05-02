@@ -4,4 +4,4 @@ Repositório criado para o Desafio de Projeto
 
 
 Para o Desafio de Projeto, escolhi disponibilizar no repositório um tutorial de como instalar o WordPress no Linux.
-O tutorial pode ser acessado através [deste link](/blob/main/wordpress).
+O tutorial pode ser acessado através [deste link](/tree/main/wordpress).
